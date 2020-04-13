@@ -19,6 +19,13 @@ func pow(x, n, limit float64) float64 {
 	return limit
 }
 
+func isEven(x int) bool {
+	if result := x % 2; result == 0 {
+		return true
+	}
+	return false
+}
+
 func main() {
 
 	fmt.Println(sqrt(16))
@@ -26,4 +33,6 @@ func main() {
 
 	fmt.Println(pow(3, 2, 10))
 	fmt.Println(pow(3, 3, 20))
+
+	fmt.Println("Is 3 even: ", isEven(3))
 }
