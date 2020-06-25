@@ -1,5 +1,9 @@
 # Golang Practice
 
+![image](images/19.png)
+
+## [Read a tour of golang](https://github.com/walkeratmind/golang-learning/blob/master/A tour of golang.md)
+
 ## useful links
 
 [awesome go tutorials](https://github.com/avelino/awesome-go#tutorials)
