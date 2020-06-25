@@ -2,7 +2,7 @@
 
 ![image](images/19.png)
 
-## [Read a tour of golang](https://github.com/walkeratmind/golang-learning/blob/master/A tour of golang.md)
+## [Read a tour of golang](https://github.com/walkeratmind/golang-learning/blob/master/A%20tour%20of%20golang.md)
 
 ## useful links
 
